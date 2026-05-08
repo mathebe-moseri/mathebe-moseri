@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd821432-5a35-4387-ac6d-e5ecab810263" />## Hi there 👋
 
 - 🔭 I’m currently working on a **mobile app to help local taxi drivers and passengers coordinate pickups efficiently.**
 - 🌱 I’m currently **learning backend development in C# to build social chat features for users on a learning platform.**
