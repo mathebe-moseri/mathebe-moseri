@@ -4,7 +4,7 @@
 - ☁️ **Cloud & Software Engineer building and supporting scalable cloud-based applications and software solutions using Microsoft Azure and GitOps workflows.**
 - 🌱 I’m currently **learning backend development in C# to build social chat features for users on a learning platform.**
 - 👯 I’m looking to collaborate on **backend and cloud development projects.**
-- 💬 Ask me about **frontend development and fitness tips**
+- 💬 Ask me about **Angular, Azure and fitness tips**
 - 📫 How to reach me: **mathebemoseri@gmail.com**
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: * I'm a loud introvert"
