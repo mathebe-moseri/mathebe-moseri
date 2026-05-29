@@ -1,11 +1,9 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on a **mobile app to help local taxi drivers and passengers coordinate pickups efficiently.**
-- ☁️ **Cloud & Software Engineer building and supporting scalable cloud-based applications and software solutions using Microsoft Azure and GitOps workflows.**
-- 🌱 I’m currently **learning backend development in C# to build social chat features for users on a learning platform.**
-- 👯 I’m looking to collaborate on **backend and cloud development projects.**
-- 💬 Ask me about **Angular, Azure and fitness tips**
-- 📫 How to reach me: **mathebemoseri@gmail.com**
+- ☁️ Full-Stack Software Engineer specializing in **Angular, C#, ASP.NET, SQL and Azure**. Passionate about building scalable solutions and continuously learning new technologies to solve real-world problems.
+- 👯 I’m looking to collaborate on **cloud development projects.**
+- 💬 Ask me about **Angular, C#, Azure and fitness tips**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mathebemoseri/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mathebemoseri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mathebemoseri@gmail.com) 
